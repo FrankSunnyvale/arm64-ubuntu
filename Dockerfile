@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER Zi Shen Lim <zlim.lnx@gmail.com>
+MAINTAINER Frank <frank.wzuo@gmail.com>
 
 # References:
 # https://github.com/tianon/docker-brew-ubuntu-core/blob/master/update.sh
